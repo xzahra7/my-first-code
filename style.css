@@ -1,0 +1,39 @@
+.wd{
+    color: blue;
+    font-size: 200px;
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+.hu{
+
+    padding-bottom: 20px;
+
+}
+
+.du{
+    width: 500px;
+
+}
+.fe{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+
+.icon{
+    background-color: rgb(177, 17, 38);
+    margin-top: 5px;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    border-radius: 40px;
+    width: 27px;
+    height: 28px;
+    text-align: center;
+
+}
+
+.fa-brands{
+    color: white;
+    padding-top: 5px;
+}
